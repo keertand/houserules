@@ -1,5 +1,6 @@
 # HOUSE RULES
 `Note: This is not Law. You are welcome to suggest and edit these rules and raise a Pull Request`
+[creating a pull request](https://help.github.com/articles/creating-a-pull-request)
 
 ### Priority levels
 * The rules will have a priority level. but given that we are humans and mistakes can be possible, and lets admit it, we are lazy, The rules that are mandatory will be in bold. The ones in bold are taken very strictly, and not following them might concern all other people living in the apartment.
@@ -20,7 +21,7 @@
 
 * We all know that we are not saints, and we are definitly lazy, so, we don't have to clean things like pan for chapathi, or other non-greasy stuff.(Omlet/dosa if they stick to the pan must be washed)
 
-# Bedrooms
+# Bedroom
 * Bedroom is your personal room. But so is it for other who share it with you. So, the least we can do is keep unwashed/ dirty laundry in a specific place, not spread them out.
 `I am not going to live in the bedroom, so i dont have much thoughts on it, but you are more than welcome to share your thoughts. thank you`
 
