@@ -1,6 +1,8 @@
-# HOUSE RULES
+# Living In Harmony
 `Note: This is not Law. You are welcome to suggest and edit these rules and raise a Pull Request`
 [creating a pull request](https://help.github.com/articles/creating-a-pull-request)
+
+### We need not follow these, but atleast, lets read this once.
 
 ### Priority levels
 * The rules will have a priority level. but given that we are humans and mistakes can be possible, and lets admit it, we are lazy, The rules that are mandatory will be in bold. The ones in bold are taken very strictly, and not following them might concern all other people living in the apartment.
@@ -15,9 +17,10 @@
 ### the following rules in numbering are very important with highest priority
 
 1. **Do not leave utensils with organic matter in it. You can leave the utensil uncleaned, but before leaving, throw the organic waste like left out curries, edible items, onion peels, any thing which you could assume that the dispencer would take care off.**
+**Special Mentions: Maggi, Dal, Rice, Milk, Dosa batter, Tomato pieces** 
 2. **if you have cooked something, unless and untill anybody promises you that they would, `YOU` are responsible for cleaning the utensils used.**
 3. **It is recommended to reduce and reuse to lower burden on yourself. Special focus and attention must be given to how you place the vessels to be cleaned in the sink. Reduce the space used, and avoid blocking the drain. see the pictures in the following link to see which way is better.**
-4. **This is usually not a written rule, but highly important: When ever you clean something using the `scrub`, always, `ALWAYS` rinse it under water and fully squeeze it so water is not retained and bad odour and microbes don't spread.**
+4. **This is usually not a written rule, but highly important: When ever you clean something using the `scrub`, always, `ALWAYS` rinse it under water and fully squeeze it so water is not retained and bad odour and microbes don't spread. If you are using a scrub with a handle, press the scrub againist the sides of wash basin to squeeze the water out.**
 
 * We all know that we are not saints, and we are definitly lazy, so, we don't have to clean things like pan for chapathi, or other non-greasy stuff.(Omlet/dosa if they stick to the pan must be washed)
 
